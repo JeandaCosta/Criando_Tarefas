@@ -1,0 +1,24 @@
+<resources>
+    <!-- String Title App -->
+    <string name="app_name">Tarefas Diárias</string>
+
+    <!-- Strings Main Screen -->
+    <string name="title_mainScreen">Tarefas</string>
+    <string name="contentDescription">Nova Tarefa</string>
+    <string name="label_you_dont_have_task">Ops! Você não possui \ntarefas no momento.</string>
+
+    <!-- Strings New Tasks Screen -->
+    <string name="title_taskScreen">NOVA TAREFA</string>
+    <string name="title_task">Título</string>
+    <string name="description_task">Descrição</string>
+    <string name="date_task">Data</string>
+    <string name="hour_task">Hora</string>
+    <string name="button_createtask">Criar Tarefa</string>
+    <string name="button_cancel">Cancelar</string>
+
+    <!-- Edit or Delete Task -->
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+
+
+</resources>
